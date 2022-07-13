@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+
+h3{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.logo{
+    width: 70px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+image{
+    border: 5px solid  #00C2AE;
+}
+body{
+    background-color: #18191c;}
+
+    
+    #loading55{
+        background-image: url(ezgif-5-c161321be3.gif);
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+        height: 100%;
+        z-index: 9999;
+        background-color: black;
+        position: fixed;
+        
+    }
+    .container1{
+        width: 100%;
+        height: 20%;
+    }
+    .con{
+        padding: 30%;
+        display: flex;
+        flex-wrap: wrap;
+       background-color: #000000;
+       padding: 100px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        color: yellow;
+    
+    }
+    body{
+        backdrop-filter: blur ;
+        background-size: contain;
+        background-image: url(background.png);
+    }
+    .va{
+        background-color: #000000;
+    }
+    input,textarea{
+        width: 250px;
+        padding: 10px;
+        border: 6px solid rgb(255, 255, 255);
+        background-color: rgb(0, 0, 0);
+        font-size: 15px;
+        color: white;
+    }
+    .af{
+        color: white;
+        font-size: 45px;
+        text-align: center;
+        
+        
+    }
+    .af h1{
+        margin-top: 10px;
+    }
+    #afc{
+        color: white;
+        font-size: 35px;
+        text-align: center;
+       
+    }
+    
+    .a{
+        position:absolute;
+        left: 50%;
+        font-size: 25px;
+        
+    }
+    .logo{
+        width: 70px;
+        height: 40px;
+        margin-bottom: 20px;
+    }
+    .container2{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif!important ;
+        color: #00ffe5;
+        background-color: #18191c;
+        font-size: 50px;
+    font-style: bold;
+    font-family: 'Pacifico', cursive;
+    }
+     
+    .navvy{
+        font-family: 'Pacifico', cursive;
+        
+    }
+    .nav-link:hover{
+    
+    background-color: rgb(0, 2, 131);
+    transition: 1s;
+    animation: forwards;
+    outline: 2px solid #FFD700;
+    }
+    .nav-link{ 
+        color: #FFD700 !important;
+        margin-left: 5%;
+        border-radius: 5px;
+        width: 120%;
+        font-size: 150%;
+    }
+    .navbar-brand{
+        justify-content: center;
+        align-items: center;
+        width: fit-content;
+        color: #FFD700 !important; 
+    }
+    .nav-item{
+        color: #FFD700 !important;
+        width: 120%;
+        margin-left: 17% !important;
+        font-size: 120%;
+    }
+    .icons2{
+        margin: 20px;
+        display: block;
+    }
+    .anchoicon{
+        text-decoration: none;
+    }
+    .colorzz{
+        background-color: #000041d0 !important;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+    color: #FFD700;
+      
+    }
+    .colorzz2{
+        margin-top: 5%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+        color: #00ffe5 !important;
+        background-color: #18191c !important; 
+    }
+    .blocknn{
+        display: block;
+    }
+    .formm{
+        border: 2px solid #00ffe5;
+        border-radius: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .siggup{
+        margin-top:4%;
+        width: 150%;
+    }
+    
+    
+    .backie{
+        background-color: #000041 !important;
+        border: 2px solid  #FFD700;
+        margin: 20px;
+        padding-bottom: 10px;
+    
+    }
+    .backie2{
+        margin-bottom: 20px;
+        background-color: #000041 !important;
+        
+    }
+    nav{
+        background-color: #000041 !important;
+        border: 2px solid  #FFD700;
+        margin-bottom: 20px;
+        color: #FFD700;
+    }
+    footer{
+        background-color: #000041 !important;
+        border: 2px solid  #FFD700;
+        margin-top: 20px;
+    }
+    
+    p{
+        color: #FFD700 !important;
+    }
+    .navbar-brand{
+        width: 230px;
+    }
+    .navbar-toggler{
+        color: #FFD700 !important;
+        background-color: #18191c !important;
+    }
+    .outlineblue{
+        outline: 5px solid #000041;
+    }
+    .outlinegold{
+        outline: 5px solid #FFD700;
+    }
+
+
+.colorzz:hover{
+    color: #FFD700;
+}
